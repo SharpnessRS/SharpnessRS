@@ -1,4 +1,7 @@
-### [Nywhash](https://www.nywhash.com)
+<h1 align="center">
+  <a href="https://www.nywhash.com">Nywhash❤️</a>
+</h1>
+
 [![](https://visitcount.itsvg.in/api?id=SharpnessRS&icon=5&color=12)]()
 ---
 <!--![](https://github-readme-stats.vercel.app/api?username=SharpnessRS&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true)<br/> -->
